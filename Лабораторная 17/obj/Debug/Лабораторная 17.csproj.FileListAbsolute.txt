@@ -1,0 +1,7 @@
+D:\РПМ\Лабораторная 17\bin\Debug\Лабораторная 17.exe.config
+D:\РПМ\Лабораторная 17\bin\Debug\Лабораторная 17.exe
+D:\РПМ\Лабораторная 17\bin\Debug\Лабораторная 17.pdb
+D:\РПМ\Лабораторная 17\obj\Debug\Лабораторная 17.csproj.AssemblyReference.cache
+D:\РПМ\Лабораторная 17\obj\Debug\Лабораторная 17.csproj.CoreCompileInputs.cache
+D:\РПМ\Лабораторная 17\obj\Debug\Лабораторная 17.exe
+D:\РПМ\Лабораторная 17\obj\Debug\Лабораторная 17.pdb

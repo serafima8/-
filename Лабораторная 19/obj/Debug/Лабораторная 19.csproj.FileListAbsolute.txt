@@ -1,0 +1,7 @@
+D:\РПМ\Лабораторная 19\bin\Debug\Лабораторная 19.exe.config
+D:\РПМ\Лабораторная 19\bin\Debug\Лабораторная 19.exe
+D:\РПМ\Лабораторная 19\bin\Debug\Лабораторная 19.pdb
+D:\РПМ\Лабораторная 19\obj\Debug\Лабораторная 19.csproj.AssemblyReference.cache
+D:\РПМ\Лабораторная 19\obj\Debug\Лабораторная 19.csproj.CoreCompileInputs.cache
+D:\РПМ\Лабораторная 19\obj\Debug\Лабораторная 19.exe
+D:\РПМ\Лабораторная 19\obj\Debug\Лабораторная 19.pdb

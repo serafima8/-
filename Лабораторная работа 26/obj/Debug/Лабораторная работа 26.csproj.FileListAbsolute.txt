@@ -1,0 +1,7 @@
+C:\Users\Кристина\source\repos\Лабораторная работа 26\bin\Debug\Лабораторная работа 26.exe.config
+C:\Users\Кристина\source\repos\Лабораторная работа 26\bin\Debug\Лабораторная работа 26.exe
+C:\Users\Кристина\source\repos\Лабораторная работа 26\bin\Debug\Лабораторная работа 26.pdb
+C:\Users\Кристина\source\repos\Лабораторная работа 26\obj\Debug\Лабораторная работа 26.csproj.AssemblyReference.cache
+C:\Users\Кристина\source\repos\Лабораторная работа 26\obj\Debug\Лабораторная работа 26.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\source\repos\Лабораторная работа 26\obj\Debug\Лабораторная работа 26.exe
+C:\Users\Кристина\source\repos\Лабораторная работа 26\obj\Debug\Лабораторная работа 26.pdb
